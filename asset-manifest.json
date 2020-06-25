@@ -1,30 +1,23 @@
 {
   "files": {
-    "main.css": "/STI1/static/css/main.fc8fade6.chunk.css",
-    "main.js": "/STI1/static/js/main.9a5ec6fc.chunk.js",
-    "main.js.map": "/STI1/static/js/main.9a5ec6fc.chunk.js.map",
-    "runtime-main.js": "/STI1/static/js/runtime-main.3ab06b62.js",
-    "runtime-main.js.map": "/STI1/static/js/runtime-main.3ab06b62.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/STI1/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.16441e8f.chunk.js": "/STI1/static/js/2.16441e8f.chunk.js",
-    "static/js/2.16441e8f.chunk.js.map": "/STI1/static/js/2.16441e8f.chunk.js.map",
-    "index.html": "/STI1/index.html",
-    "precache-manifest.e8aff25f71d77fd983cc29b4e8b2e6c3.js": "/STI1/precache-manifest.e8aff25f71d77fd983cc29b4e8b2e6c3.js",
-    "service-worker.js": "/STI1/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/STI1/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.fc8fade6.chunk.css.map": "/STI1/static/css/main.fc8fade6.chunk.css.map",
-    "static/js/2.16441e8f.chunk.js.LICENSE.txt": "/STI1/static/js/2.16441e8f.chunk.js.LICENSE.txt",
-    "static/media/B1.png": "/STI1/static/media/B1.f6b13285.png",
-    "static/media/B2.png": "/STI1/static/media/B2.0f8ff573.png",
-    "static/media/B5a.png": "/STI1/static/media/B5a.2c71a456.png",
-    "static/media/B5c.png": "/STI1/static/media/B5c.a2fce84a.png",
-    "static/media/B7.png": "/STI1/static/media/B7.777bcfd4.png"
+    "main.css": "/tools/PMDD-tool/static/css/main.67e5a04a.chunk.css",
+    "main.js": "/tools/PMDD-tool/static/js/main.2f71383c.chunk.js",
+    "main.js.map": "/tools/PMDD-tool/static/js/main.2f71383c.chunk.js.map",
+    "runtime-main.js": "/tools/PMDD-tool/static/js/runtime-main.0628f531.js",
+    "runtime-main.js.map": "/tools/PMDD-tool/static/js/runtime-main.0628f531.js.map",
+    "static/js/2.bf4e51d1.chunk.js": "/tools/PMDD-tool/static/js/2.bf4e51d1.chunk.js",
+    "static/js/2.bf4e51d1.chunk.js.map": "/tools/PMDD-tool/static/js/2.bf4e51d1.chunk.js.map",
+    "index.html": "/tools/PMDD-tool/index.html",
+    "precache-manifest.3270b9e690b432e665b1a681d3278610.js": "/tools/PMDD-tool/precache-manifest.3270b9e690b432e665b1a681d3278610.js",
+    "service-worker.js": "/tools/PMDD-tool/service-worker.js",
+    "static/css/main.67e5a04a.chunk.css.map": "/tools/PMDD-tool/static/css/main.67e5a04a.chunk.css.map",
+    "static/js/2.bf4e51d1.chunk.js.LICENSE.txt": "/tools/PMDD-tool/static/js/2.bf4e51d1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tools/PMDD-tool/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ab06b62.js",
-    "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.16441e8f.chunk.js",
-    "static/css/main.fc8fade6.chunk.css",
-    "static/js/main.9a5ec6fc.chunk.js"
+    "static/js/runtime-main.0628f531.js",
+    "static/js/2.bf4e51d1.chunk.js",
+    "static/css/main.67e5a04a.chunk.css",
+    "static/js/main.2f71383c.chunk.js"
   ]
 }
